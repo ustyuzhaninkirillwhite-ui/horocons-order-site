@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:HOROCONS;;;;
+FN:HOROCONS
+ORG:HOROCONS LLC
+X-ABShowAs:COMPANY
+EMAIL;TYPE=INTERNET,WORK:info@horocons.ru
+ADR;TYPE=WORK:;2nd floor\, office 203;Vekovaya St.\, 21\, bldg. 1;Moscow;;109544;Russia
+URL:https://horocons.lex-frame.ru/en/
+END:VCARD

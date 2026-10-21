@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Хороконс;;;;
+FN:Хороконс
+ORG:ООО «Хороконс»
+X-ABShowAs:COMPANY
+EMAIL;TYPE=INTERNET,WORK:info@horocons.ru
+ADR;TYPE=WORK:;2 этаж\, офис 203;ул. Вековая\, д. 21\, стр. 1;Москва;;109544;Россия
+URL:https://horocons.lex-frame.ru/
+END:VCARD
